@@ -1,0 +1,59 @@
+
+body {
+  font-family: "Avenir Next";
+}
+button {
+  position:fixed;
+}
+.header {
+  background-color: green;
+  color: #fff;
+  height: 90px;
+}
+.header-logo {
+  font-size: 45px;
+  padding: 20px 40px 20px 40px;
+  float: left;
+}
+li {
+  padding: 33px 20px 33px 20px;
+  list-style: none;
+  float: left;
+  font-size: 30px;
+}
+.main {
+  font-size: 90px;
+  padding-top: 80px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+span {
+  color: #black;
+}
+.main2 {
+  font-size: 60px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+.contents {
+  height: 500px;
+  margin-right:80px;
+  margin-left:80px;
+  margin-top: 100px;
+  margin-bottom:100px;
+
+}
+.Lessons {
+  font-size: 28px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #dee7ec;
+}
+.contents-item {
+  float:left;
+}
+.contents-item img {
+  width: 24%
+}
+.dark-mode {
+  background-color: black;
+  color: white;
